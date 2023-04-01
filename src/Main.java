@@ -9,5 +9,11 @@ public class Main {
         X.cylinders="8";
         X.size="1234cc";
         X.weight="6453k";
+
+        J03Lights neon= new J03Lights();
+        neon.color="red";
+        neon.size="15cm";
+        neon.intensity="7675lumi";
+        
     }
 }
